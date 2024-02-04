@@ -17,4 +17,5 @@ game.txt contains the mcts_bot vs a purely random bot -> mcts wins
 game2.txt features the output of mcts_bot vs mcts_modified showing that taking into account moves instead of random rollouts might be more costly in terms of runtime, but creates a smarter more informed bot.
 
 Challenges: Coming up with a heuristic for the heuristic MCTS bot to make better than random choices when rolling out from a node.
+
 Learned: The four stages of MCTS. How to implement MCTS for a bot in a turn based game. Also learned about the confusing game of Ultimate Tic-Tac-Toe.
