@@ -45,6 +45,7 @@ player2 = players[p2]
 state = state0
 last_action = None
 current_player = player1
+f = open("game.txt", "w")
 while not board.is_ended(state):
     print(board.display(state, last_action))
     print("Player "+str(board.current_player(state)))
