@@ -1,4 +1,4 @@
-python3 p2_play.py mcts_vanilla random_bot
+python3 p2_play.py mcts_vanilla mcts_modified
 
 ╔═══╤═══╤═══╦═══╤═══╤═══╦═══╤═══╤═══╗
 ║   │   │   ║   │   │   ║   │   │   ║
